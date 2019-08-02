@@ -8,4 +8,4 @@ experiment1lambdaSweep.m: recreates Figure 8(b) with fewer random trials (to con
 
 experiment2numConvergence.m: An experiment testing numerical convergence of the TeraLasso with nonconvex regularization, typical of those in Figure 15 (supplement).
 
-windExperiment.m: Experiment recreating Figure 12. Our results are shown, the BiGLasso method is commented out due to its excessive runtime. 
+windExperiment.m: Experiment recreating Figure 12. Our results are shown, the BiGLasso method is included but commented out due to its excessive runtime. 
